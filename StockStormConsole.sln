@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockStormConsole", "StockStormConsole.csproj", "{0CEBFE6D-A4FA-4F7C-973A-22CB83B08E5A}"
+EndProject
+Global
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CEBFE6D-A4FA-4F7C-973A-22CB83B08E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEBFE6D-A4FA-4F7C-973A-22CB83B08E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEBFE6D-A4FA-4F7C-973A-22CB83B08E5A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
